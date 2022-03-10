@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PZ_MoveMap", "PZ_MoveMap\PZ_MoveMap.csproj", "{29840748-CF8D-4E27-B000-0A3DD689CDBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29840748-CF8D-4E27-B000-0A3DD689CDBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29840748-CF8D-4E27-B000-0A3DD689CDBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29840748-CF8D-4E27-B000-0A3DD689CDBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29840748-CF8D-4E27-B000-0A3DD689CDBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B321613-4251-4220-89B9-4C6F233E46E7}
+	EndGlobalSection
+EndGlobal
